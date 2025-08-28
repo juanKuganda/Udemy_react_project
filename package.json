@@ -1,0 +1,26 @@
+{
+  "name": "udemy_react_project",
+  "version": "1.0.0",
+  "description": "Mineswepper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanKuganda/Udemy_react_project.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Juan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanKuganda/Udemy_react_project/issues"
+  },
+  "homepage": "https://github.com/juanKuganda/Udemy_react_project#readme",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
